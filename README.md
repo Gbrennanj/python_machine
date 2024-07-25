@@ -1,6 +1,7 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gbrennanj/pythonstats/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gbrennanj/python_machine/HEAD)
+This project is adapted from the tutorial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee. https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
 A Binder-compatible repo with an `environment.yml` file.
 
